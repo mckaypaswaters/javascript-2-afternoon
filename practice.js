@@ -67,7 +67,7 @@ let backPack = {}
 
 let item = 'firstPocket'
 backPack['firstPocket'] = 'chapstick'
-backPack.color = 'black'
+backPack.color = 'white'
 
 
 
